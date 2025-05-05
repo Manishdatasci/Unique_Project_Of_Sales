@@ -27,7 +27,7 @@ This project analyzes a retail sales dataset to discover **price trends**, **cus
 - MySQL
 - Jupyter Notebook
 - PowerPoint (for presentation)
-
+```
 Retail-Sales-Price-Trend-Analysis/
 │
 ├── data/                          # Raw and processed data files
@@ -48,3 +48,4 @@ Retail-Sales-Price-Trend-Analysis/
 │
 
 
+```
