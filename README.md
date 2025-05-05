@@ -28,8 +28,6 @@ This project analyzes a retail sales dataset to discover **price trends**, **cus
 - Jupyter Notebook
 - PowerPoint (for presentation)
 
----
 
-## 📁 Repository Structure --
 
 
