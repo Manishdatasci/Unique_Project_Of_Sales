@@ -30,5 +30,6 @@ This project analyzes a retail sales dataset to discover **price trends**, **cus
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Structure --
+
 
