@@ -29,11 +29,22 @@ This project analyzes a retail sales dataset to discover **price trends**, **cus
 - PowerPoint (for presentation)
 
 Retail-Sales-Price-Trend-Analysis/
-├── Retail Sales Data – Price Trends.ipynb # Jupyter notebook with full analysis
-├── shopping\_trends.csv # Dataset used for analysis
-├── Project\_3.sql # SQL queries for data insights
-├── Retail Sales Data – Price Trends.pptx # Final presentation
-├── README.md # Project documentation
-
+│
+├── data/                          # Raw and processed data files
+│   ├── shopping_trends.csv        # Dataset used for analysis
+│
+├── notebooks/                     # Jupyter notebooks for analysis
+│   ├── Retail Sales Data – Price Trends.ipynb  # Jupyter notebook with full analysis
+│
+├── sql/                           # SQL queries and database-related files
+│   ├── Project_3.sql              # SQL queries for data insights
+│
+├── reports/                       # Generated reports and presentation files
+│   ├── Retail Sales Data – Price Trends.pptx    # Final presentation
+│
+├── src/                           # Source code (if any)
+│   ├── data_preprocessing.py      # Example of Python code for data preprocessing (if applicable)
+│   ├── trend_analysis.py          # Example of trend analysis script (if applicable)
+│
 
 
