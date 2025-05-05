@@ -41,11 +41,6 @@ Retail-Sales-Price-Trend-Analysis/
 │
 ├── reports/                       # Generated reports and presentation files
 │   ├── Retail Sales Data – Price Trends.pptx    # Final presentation
-│
-├── src/                           # Source code (if any)
-│   ├── data_preprocessing.py      # Example of Python code for data preprocessing (if applicable)
-│   ├── trend_analysis.py          # Example of trend analysis script (if applicable)
-│
 
 
 ```
