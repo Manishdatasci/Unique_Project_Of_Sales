@@ -1,6 +1,3 @@
-# Unique_Project_Of_Sales
-This is the project of Sales data set 
-
 # 🛍️ Retail Sales Data – Price Trends
 
 This project analyzes a retail sales dataset to discover **price trends**, **customer behavior**, and **revenue-driving factors** using **Python (Pandas, Seaborn, Matplotlib)** and **SQL**. A visual presentation (PPT) is included to summarize key business insights.
